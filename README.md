@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Favour Oni
-- 👀 I’m interested in data analysis and more 
-- 🌱 I’m currently learning and developing more knowledge in python 
-- 💞️ I’m looking to collaborate with start ups, remote companies and to analysis your data for you 
-- 📫 How to reach me? email me on elizabethoni.08@gmail.com, instagram @favouroni_
+- 👀 I’m interested in data sciences 
+- 🌱 I’m currently learning and developing more knowledge in python for data science and SQL 
+- 💞️ I’m looking to collaborate with start ups, remote companies and to analysis data that effect siqnificant change 
+- 📫 How to reach me? you can email me @elizabethoni.08@gmail.com, instagram @favouroni_
 
 <!---
 shonell/shonell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
